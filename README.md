@@ -25,5 +25,3 @@ HelpU 工具箱是一款面向 Windows 与 Android 的实用工具。当前提�
 - Android：下载 `helpu-android-1.0.18-26.apk`，支持 Android 8.0 及以上的 64 位 ARM 设备。
 
 Windows 版本为便携压缩包。当前未购买商业代码签名证书，首次运行时 Windows 可能显示安全提醒。
-
-本仓库仅提供 HelpU 软件成品下载，不开放源代码。
