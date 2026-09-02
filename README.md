@@ -7,11 +7,11 @@ HelpU 工具箱是一款面向 Windows 与 Android 的实用工具。当前提�
 - 文案提取：从视频、音频或链接内容中提取文案，支持后续整理使用。
 - 去水印下载：解析并下载视频与图文作品，保存到本机。
 
-## 软件界面
-
 国内下载链接：[https://jdhwew.lanzoue.com/b0j1opvof](https://jdhwew.lanzoue.com/b0j1opvof)
 
 密码：123
+
+## 软件界面
 ![HelpU 工具箱首页](screenshots/home.png)
 
 ![超强情感配音](screenshots/emotional-voiceover.png)
