@@ -9,6 +9,9 @@ HelpU 工具箱是一款面向 Windows 与 Android 的实用工具。当前提�
 
 ## 软件界面
 
+国内下载链接：[https://jdhwew.lanzoue.com/b0j1opvof](https://jdhwew.lanzoue.com/b0j1opvof)
+
+密码：123
 ![HelpU 工具箱首页](screenshots/home.png)
 
 ![超强情感配音](screenshots/emotional-voiceover.png)
